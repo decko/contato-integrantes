@@ -12,3 +12,4 @@ Repositório Destinado a centralizar os contatos dos integrantes da comunidade P
 | Gilson Filho | contatogilsonsbf@gmail.com | [@gilsonfilho](http://twitter.com/gilsonfilho) | [@gilsondev](http://github.com/gilsondev) |
 | Dirley Rodrigues | N/A | [@dirleyrls](http://twitter.com/dirleyrls) | [@ravishi](http://github.com/ravishi) |
 | Wagner Santos | wagnerjs.unb@gmail.com | [@wagnerjsantos](http://twitter.com/wagnerjsantos) | [@wagnerjs](http://github.com/wagnerjs) |
+| Israel P. Siqueira | israelps@gmail.com | [@israelps](http://twitter.com/israelps) | [@israelps](http://github.com/israelps) |
