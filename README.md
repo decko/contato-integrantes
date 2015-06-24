@@ -10,3 +10,4 @@ Repositório Destinado a centralizar os contatos dos integrantes da comunidade P
 | Marco Rougeth | marco@rougeth.com | [@marcorougeth](http://twitter.com/marcorougeth) | [@rougeth](http://github.com/rougeth) |
 | Pedro Henrique | pedrohenriqueacruz@gmail.com | [@phinfonet](http://twitter.com/phinfonet) | [@phinfonet](http://github.com/phinfonet) |
 | Gilson Filho | contatogilsonsbf@gmail.com | [@gilsonfilho](http://twitter.com/gilsonfilho) | [@gilsondev](http://github.com/gilsondev) |
+| Dirley Rodrigues | N/A | [@dirleyrls](http://twitter.com/dirleyrls) | [@ravishi](http://github.com/ravishi) |
